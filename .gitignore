@@ -1,0 +1,6 @@
+*.exe
+project/db-data/mongo/*
+project/db-data/postgres/*
+authentication-service/authApp
+broker-service/brokerApp
+logger-service/loggerServiceApp
