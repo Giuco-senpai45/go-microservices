@@ -1,7 +1,9 @@
 *.exe
 project/db-data/mongo/*
 project/db-data/postgres/*
+project/db-data/rabbitmq/*
 authentication-service/authApp
 broker-service/brokerApp
 logger-service/loggerServiceApp
 mailer-service/mailerApp
+listener-service/listenerApp

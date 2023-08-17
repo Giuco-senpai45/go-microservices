@@ -6,4 +6,5 @@ use (
 	./front-end
 	./logger-service
 	./mailer-service
+	./listener-service
 )
