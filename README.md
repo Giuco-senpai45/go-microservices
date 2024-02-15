@@ -2,7 +2,7 @@
 
 This project was realized as generic cluster with the following architecture.
 
-[[architecture.png]]
+![Architecture](architecture.png)
 
 Communication inter-services (not databases or async queues) are made with 3 different communcation techniques transmited over HTTP requests
 - standard JSON
